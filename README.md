@@ -1,4 +1,4 @@
-## Hi there 👋
+Hope to learn more!
 
 <!--
 **kikii-kikii/kikii-kikii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
